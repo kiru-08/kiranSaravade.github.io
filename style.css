@@ -329,20 +329,6 @@ footer{
 
 }
 
-/* About Image */
-
-.about-image{
-
-    flex:1;
-
-    display:flex;
-
-    justify-content:center;
-
-    align-items:center;
-
-}
-
 .about-image img{
 
     width:350px;
